@@ -3,7 +3,7 @@
 # DredDine - ReplitWEB
   
   <p align="center">
-    <a href="https://github.com/DredDine"><img title="Github" src="https://img.shields.io/badge/hiro-beet-brightgreen?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/DredDine"><img title="Github" src="https://img.shields.io/badge/Dred-Dine-brightgreen?style=for-the-badge&logo=github"></a>
   </p>
       
   <p align="center">
